@@ -40,7 +40,7 @@ Returns an object like
 ```
 
 
-Get the current air quality for lat/lon
+## Get the current air quality for lat/lon
 
 Docs: https://openweathermap.org/api/air-pollution
 ```
